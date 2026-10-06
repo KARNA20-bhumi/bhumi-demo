@@ -1,4 +1,4 @@
-# bhumi-demo
+cd# bhumi-demo
 This is my first github repository.
 <br>
-Author - Bhumi Karna
+Author - Bhumi Karna(author)
